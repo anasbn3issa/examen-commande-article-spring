@@ -11,5 +11,8 @@
 Ennoncé 
 ![ennonce-exam-article](https://user-images.githubusercontent.com/47992691/146913261-7bbf93e2-e9b2-476e-b5e0-38d5881eeab5.PNG)
 
+Swagger imp écran
+![swagger_screen](https://user-images.githubusercontent.com/47992691/146915640-b9907077-8bd0-41db-bdbd-7eaeed1bd847.PNG)
 
-developpé en 55 minutes 
+
+
